@@ -1,0 +1,48 @@
+body{
+    line-height: 2rem;
+}
+h3{
+    text-align: center;
+    font-size: 4rem;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5rem;
+}
+
+.delete{
+    margin-right:5rem;
+    height:3rem;
+    font-size: 2.5rem;
+}
+.center {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.center .input{
+    font-size: 3rem;
+    margin: 20px;
+}
+.center .button{
+    font-size: 3rem;
+    margin: 20px;
+}
+.ul{
+    font-size: 2.5rem;
+    line-height: 4rem;
+}
+.cb{
+    height: 3rem;
+    width: 3rem;
+    margin-right: 3rem;
+    margin-left: 2rem;
+}
+.cc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
